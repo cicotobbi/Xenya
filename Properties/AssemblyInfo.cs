@@ -1,0 +1,14 @@
+﻿using System.Reflection;
+using System.Runtime.InteropServices;
+[assembly: AssemblyTitle("")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("")]
+[assembly: AssemblyCopyright("")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+[assembly: ComVisible(false)]
+[assembly: Guid("2fdacace-a613-4529-9f68-b780bceb6f2e")]
+[assembly: AssemblyVersion("3.5.7.9")]
+[assembly: AssemblyFileVersion("3.5.7.9")]
